@@ -8,7 +8,7 @@ article p:first-child {
 }
 article p:nth-child(2) {
     /* Standard text color */
-	color:beige
+	color:black;
 }
 article p:last-child {
     color: red;
